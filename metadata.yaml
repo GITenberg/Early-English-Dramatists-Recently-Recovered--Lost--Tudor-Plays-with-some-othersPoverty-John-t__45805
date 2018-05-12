@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2762'
     url: http://www.gutenberg.org/2009/agents/2762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45805#Early-English-Dramatists-Recently-Recovered--Lost--Tudor-Plays-with-some-othersPoverty-John-t_
 gutenberg_issued: '2014-05-28'
 gutenberg_type: Text
 identifiers:
