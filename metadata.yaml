@@ -1,0 +1,36 @@
+_repo: Early-English-Dramatists-Recently-Recovered--Lost--Tudor-Plays-with-some-othersPoverty-John-t__45805
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45805-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Farmer, John Stephen
+    aliases:
+    - Farmer, John S.
+    - Farmer, J. S. (John Stephen)
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2762'
+    url: http://www.gutenberg.org/2009/agents/2762
+description: ''
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45805'
+  lccn: '66004714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early English Dramatists
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600'
+- !lcsh 'Moralities, English'
+- !lcsh 'Interludes, English'
+tableOfContents: Mankind -- Nature, by H. Medwall -- The play of wit and science,
+  by J. Redford -- Respublica -- An interlude of wealth and health -- A new interlude
+  of impatient poverty -- The interlude of John the Evangelist -- Note-book and word-list.
+title: Recently Recovered "Lost" Tudor Plays with some others
+url: http://www.gutenberg.org/ebooks/45805
